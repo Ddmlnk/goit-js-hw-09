@@ -53,3 +53,16 @@ body {
     grid-template-columns: 1fr;
   }
 }
+.back-link {
+  display: inline-block;
+  margin: 24px;
+  color: #4070f4;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
